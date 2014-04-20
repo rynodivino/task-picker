@@ -1,0 +1,16 @@
+{
+  "name": "task-runner",
+  "version": "0.0.0",
+  "description": "Choose async tasks based on logic defined in config file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "async",
+    "task",
+    "runner"
+  ],
+  "author": "rynodivino",
+  "license": "MIT"
+}
