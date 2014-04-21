@@ -12,5 +12,8 @@
     "runner"
   ],
   "author": "rynodivino",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "async": "~0.7.0"
+  }
 }
