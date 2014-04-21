@@ -1,3 +1,3 @@
 var TR = require('../');
-var tr = TR(__dirname, { "a": true, "b": false, "data": {} });
+var tr = TR({ basedir : __dirname, scope : { "a": true, "b": false, "data": {} }});
 
