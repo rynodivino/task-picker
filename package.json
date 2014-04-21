@@ -1,5 +1,5 @@
 {
-  "name": "task-runner",
+  "name": "task-picker",
   "version": "0.0.0",
   "description": "Choose async tasks based on logic defined in config file.",
   "main": "index.js",
